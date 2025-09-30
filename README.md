@@ -6,10 +6,10 @@ Dalam industri perfilman, analisis data memegang peranan krusial untuk memahami 
 
 **Problem Statement**
 Analis data sering dihadapkan pada dataset film mentah yang memiliki berbagai masalah, antara lain:
-> Data Hilang (Missing Values): Informasi penting seperti pendapatan dan anggaran.
-> Inkonsistensi Data: Kesalahan penulisan atau format yang tidak seragam pada data kategorikal
-> Data Tidak Valid: Terdapat nilai yang secara logis tidak mungkin, seperti durasi film negatif, skor IMDb di luar skala 1-10, atau kesalahan ketik pada tahun rilis.
-> Outlier: Adanya data dengan nilai ekstrem yang tidak wajar (misalnya, durasi film hanya 5 menit) yang dapat mengganggu hasil analisis statistik.
+- Data Hilang (Missing Values): Informasi penting seperti pendapatan dan anggaran.
+- Inkonsistensi Data: Kesalahan penulisan atau format yang tidak seragam pada data kategorikal
+- Data Tidak Valid: Terdapat nilai yang secara logis tidak mungkin, seperti durasi film negatif, skor IMDb di luar skala 1-10, atau kesalahan ketik pada tahun rilis.
+- Outlier: Adanya data dengan nilai ekstrem yang tidak wajar (misalnya, durasi film hanya 5 menit) yang dapat mengganggu hasil analisis statistik.
 
 Masalah-masalah ini harus diatasi sebelum data dapat digunakan untuk tujuan analisis yang lebih dalam, seperti mencari korelasi antara anggaran dan pendapatan, atau memprediksi rating film berdasarkan sutradara dan genre. Kualitas data yang buruk akan menghasilkan kesimpulan yang salah dan keputusan bisnis yang tidak efektif.
 
@@ -23,19 +23,19 @@ Tujuan dari proyek ini adalah melakukan preprocessing data pada dataset film unt
 **Dataset**
 Dataset asli (movie_sample_dataset.csv) berisi berbagai informasi tentang film. Variabel-variabel kunci yang menjadi fokus dalam proses pembersihan ini meliputi:
 
-> director_name: Nama sutradara film.
-> duration: Durasi film dalam menit.
-> gross: Pendapatan kotor film di box office.
-> budget: Anggaran produksi film.
-> title_year: Tahun rilis film.
-> imdb_score: Rating film di IMDb (skala 1-10).
-> country: Negara asal produksi film.
-> color: Format film (berwarna atau hitam putih).
-> genres: Kategori genre film (bisa lebih dari satu).
-> language: Bahasa yang digunakan dalam film
-> actors: Aktor-aktor dan aktris-aktris yang berakting di film
-> movie_facebook_likes: Banyaknya like film di facebook
-> movie_title: Judul film
+- director_name: Nama sutradara film.
+- duration: Durasi film dalam menit.
+- gross: Pendapatan kotor film di box office.
+- budget: Anggaran produksi film.
+- title_year: Tahun rilis film.
+- imdb_score: Rating film di IMDb (skala 1-10).
+- country: Negara asal produksi film.
+- color: Format film (berwarna atau hitam putih).
+- genres: Kategori genre film (bisa lebih dari satu).
+- language: Bahasa yang digunakan dalam film
+- actors: Aktor-aktor dan aktris-aktris yang berakting di film.
+- movie_facebook_likes: Banyaknya like film di facebook.
+- movie_title: Judul film.
 
 **Metodologi Preprocessing**
 Script Python yang disediakan (preprocess_movie.py) melakukan serangkaian langkah pembersihan dan transformasi data secara sistematis:
@@ -50,6 +50,6 @@ Hasil akhir dari proses ini adalah sebuah file CSV baru bernama movie_dataset_cl
 
 **Rekomendasi Langkah Selanjutnya**
 Dengan dataset yang sudah bersih ini, beberapa analisis lanjutan yang dapat dilakukan antara lain:
-> Analisis Statistik Deskriptif: Menghitung korelasi antara anggaran, durasi, dan pendapatan film.
-> Visualisasi Data: Membuat grafik untuk melihat tren film berdasarkan tahun, genre, atau sutradara.
-> Pemodelan Prediktif: Membangun model machine learning untuk memprediksi pendapatan atau skor IMDb sebuah film berdasarkan fitur-fitur yang ada.
+- Analisis Statistik Deskriptif: Menghitung korelasi antara anggaran, durasi, dan pendapatan film.
+- Visualisasi Data: Membuat grafik untuk melihat tren film berdasarkan tahun, genre, atau sutradara.
+- Pemodelan Prediktif: Membangun model machine learning untuk memprediksi pendapatan atau skor IMDb sebuah film berdasarkan fitur-fitur yang ada.
