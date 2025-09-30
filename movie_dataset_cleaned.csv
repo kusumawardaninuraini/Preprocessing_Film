@@ -1,0 +1,81 @@
+color,director_name,duration,gross,movie_title,title_year,language,country,budget,imdb_score,actors,movie_facebook_likes,action,adventure,biography,comedy,crime,drama,fantasy,history,music,musical,mystery,romance,sci-fi,sport,thriller,unknown,war,western
+color,martin scorsese,240,116866727,the wolf of wall street,2013,english,usa,100000000,8.2,"leonardo dicaprio,matthew mcconaughey,jon favreau",138000,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,shane black,195,408992272,iron man 3,2013,english,usa,200000000,7.2,"robert downey jr.,jon favreau,don cheadle",95000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,quentin tarantino,187,54116191,the hateful eight,2015,english,usa,44000000,7.9,"craig stark,jennifer jason leigh,zoë bell",114000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1
+color,kenneth lonergan,186,46495,margaret,2011,english,usa,14000000,6.5,"matt damon,kieran culkin,john gallagher jr.",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,peter jackson,186,258355354,the hobbit: the desolation of smaug,2013,english,usa,225000000,7.9,"aidan turner,adam brown,james nesbitt",83000,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+color,nameless,183,330249062,batman v superman: dawn of justice,2012,english,usa,250000000,6.9,"henry cavill,lauren cohan,alan d. purwin",197000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,joss whedon,173,623279547,the avengers,2012,english,usa,220000000,8.1,"chris hemsworth,robert downey jr.,scarlett johansson",123000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,nameless,158,102515793,the girl with the dragon tattoo,2011,english,usa,90000000,7.8,"robin wright,goran visnjic,joely richardson",54000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+color,christopher spencer,170,59696176,son of god,2014,english,usa,22000000,5.6,"roma downey,amber rose revah,darwin shaw",15000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+color,christopher nolan,169,187991439,interstellar,2014,english,usa,165000000,8.6,"matthew mcconaughey,anne hathaway,mackenzie foy",349000,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+color,f. gary gray,167,161029270,straight outta compton,2015,english,usa,28000000,7.9,"aldis hodge,neil brown jr.,r. marcos taylor",76000,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+color,richard linklater,165,25359200,boyhood,2014,english,usa,4000000,8.0,"ellar coltrane,lorelei linklater,libby villari",92000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,quentin tarantino,580,162804648,django unchained,2012,english,usa,100000000,8.5,"leonardo dicaprio,christoph waltz,ato essandoh",199000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+color,michael bay,165,245428137,transformers: age of extinction,2014,english,usa,210000000,5.7,"bingbing li,sophia myles,kelsey grammer",56000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,christopher nolan,164,448130642,the dark knight rises,2012,english,usa,250000000,8.5,"tom hardy,christian bale,joseph gordon-levitt",164000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+color,peter jackson,164,255108370,the hobbit: the battle of the five armies,2014,english,new zealand,250000000,7.5,"aidan turner,adam brown,james nesbitt",65000,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+color,tom hooper,158,148775460,les misérables,2012,english,usa,61000000,7.6,"hugh jackman,eddie redmayne,anne hathaway",144000,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+color,kathryn bigelow,157,95720716,zero dark thirty,2012,english,usa,40000000,7.4,"jennifer ehle,harold perrineau,parker sawyers",39000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+color,ridley scott,156,105219735,robin hood,2010,english,usa,200000000,6.7,"mark addy,william hurt,scott grimes",17000,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+color,nameless,156,183635922,the revenant,2015,english,usa,135000000,8.1,"leonardo dicaprio,tom hardy,lukas haas",190000,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+color,michael bay,154,352358779,transformers: dark of the moon,2011,english,usa,195000000,6.3,"glenn morshower,lester speight,kevin dunn",46000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,denis villeneuve,153,60962878,prisoners,2013,english,usa,46000000,8.1,"hugh jackman,jake gyllenhaal,dylan minnette",86000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+color,marc webb,153,262030663,the amazing spider-man,2012,english,usa,230000000,7.0,"emma stone,andrew garfield,chris zylka",56000,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+color,nameless,151,228430993,the martian,2015,english,usa,108000000,8.1,"matt damon,donald glover,benedict wong",153000,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+color,ridley scott,150,65007045,exodus: gods and kings,2014,english,uk,140000000,6.1,"christian bale,maría valverde,ben mendelsohn",51000,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,nameless,150,182204440,lincoln,2012,english,usa,65000000,7.4,"joseph gordon-levitt,hal holbrook,bruce mcgill",71000,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+color,gore verbinski,650,89289910,the lone ranger,2013,english,usa,215000000,6.5,"johnny depp,ruth wilson,tom wilkinson",48000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+color,david fincher,149,167735396,gone girl,2014,english,usa,61000000,8.1,"patrick fugit,sela ward,emily ratajkowski",146000,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+color,bryan singer,149,233914986,x-men: days of future past,2014,english,usa,200000000,8.0,"jennifer lawrence,peter dinklage,hugh jackman",82000,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+color,christopher nolan,148,292568851,inception,2010,english,usa,160000000,8.8,"leonardo dicaprio,tom hardy,joseph gordon-levitt",175000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+color,paul thomas anderson,148,8093318,inherent vice,2014,english,usa,20000000,6.7,"martin dew,katherine waterston,serena scott thomas",18000,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+color,sam mendes,148,200074175,spectre,2015,english,uk,245000000,6.8,"christoph waltz,rory kinnear,stephanie sigman",85000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+color,nameless,147,407197282,captain america: civil war,2016,english,usa,250000000,8.2,"robert downey jr.,scarlett johansson,chris evans",72000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,michael patrick king,146,95328937,sex and the city 2,2010,english,usa,100000000,4.3,"chris noth,liza minnelli,kristin davis",0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+color,tate taylor,146,169705587,the help,2011,english,usa,25000000,8.1,"emma stone,bryce dallas howard,mike vogel",75000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,francis lawrence,146,424645577,the hunger games: catching fire,2013,english,usa,130000000,7.6,"jennifer lawrence,josh hutcherson,sandra ellis lafferty",82000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+black and white,steven spielberg,146,79883359,war horse,2011,english,usa,66000000,7.2,"jeremy irvine,benedict cumberbatch,eddie marsan",28000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+color,michael bay,144,52822418,13 hours,2016,english,usa,50000000,7.4,"toby stephens,james badge dale,david costabile",44000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+color,guillaume canet,144,41229,blood ties,2013,english,france,25500000,6.5,"mila kunis,lili taylor,billy crudup",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,paul thomas anderson,144,16377274,the master,2012,english,usa,32000000,7.1,"mike howard,jeffrey w. jenkins,bruce goodchild",27000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,bryan singer,144,154985087,x-men: apocalypse,2016,english,usa,178000000,7.3,"jennifer lawrence,michael fassbender,tye sheridan",54000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,adam mckay,143,2175312,anchorman 2: the legend continues,2013,english,usa,50000000,6.3,"harrison ford,will ferrell,steve carell",41000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+color,zack snyder,143,291021565,man of steel,2013,english,usa,225000000,7.2,"henry cavill,christopher meloni,harry lennix",118000,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+color,sam mendes,143,304360277,skyfall,2012,english,uk,200000000,7.8,"albert finney,helen mccrory,rory kinnear",80000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+color,baz luhrmann,143,144812796,the great gatsby,2013,english,australia,105000000,7.3,"leonardo dicaprio,elizabeth debicki,steve bisley",115000,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+color,steven spielberg,142,72306065,bridge of spies,2015,english,usa,40000000,7.6,"tom hanks,mark rylance,amy ryan",55000,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+color,marc webb,142,202853933,the amazing spider-man 2,2014,english,usa,200000000,6.7,"emma stone,andrew garfield,b.j. novak",41000,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+color,nameless,142,407999255,the hunger games,2012,english,usa,78000000,7.3,"jennifer lawrence,josh hutcherson,anthony reynolds",140000,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+color,joss whedon,141,458991599,avengers: age of ultron,2015,english,usa,250000000,7.5,"chris hemsworth,robert downey jr.,scarlett johansson",118000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,justin chadwick,141,8324748,mandela: long walk to freedom,2013,english,uk,35000000,7.1,"terry pheto,fana mokoena,tony kgoroge",13000,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+color,oliver stone,141,47307550,savages,2012,english,usa,45000000,6.5,"demián bichir,shea whigham,gary stretch",28000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,david dobkin,141,47105085,the judge,2014,english,usa,50000000,7.4,"robert downey jr.,robert duvall,leighton meester",47000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,ryan murphy,140,80574010,eat pray love,2010,english,usa,60000000,5.7,"james franco,julia roberts,billy crudup",26000,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+color,james wan,140,350034110,furious 7,2015,english,usa,190000000,7.2,"jason statham,paul walker,vin diesel",94000,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+color,derek cianfrance,140,21383298,the place beyond the pines,2012,english,usa,15000000,7.3,"ryan gosling,ben mendelsohn,angelo anthony pizza",47000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,gavin o'connor,140,13651662,warrior,2011,english,usa,25000000,8.2,"tom hardy,frank grillo,kevin dunn",77000,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+color,nameless,139,150832203,divergent,2014,english,usa,85000000,6.7,"kate winslet,theo james,mekhi phifer",49000,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+color,gary ross,139,20389967,free state of jones,2016,english,usa,50000000,6.7,"matthew mcconaughey,donald watkins,jessica collins",10000,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+color,tate taylor,139,30513940,get on up,2014,english,usa,30000000,6.9,"tika sumpter,josh hopkins,aunjanue ellis",11000,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+color,terrence malick,139,13303319,the tree of life,2011,english,usa,32000000,6.7,"brad pitt,tye sheridan,fiona shaw",39000,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+color,nameless,138,150117807,american hustle,2013,english,usa,40000000,7.3,"jennifer lawrence,christian bale,bradley cooper",63000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,robert zemeckis,138,93749203,flight,2012,english,usa,31000000,7.3,"denzel washington,bruce greenwood,nadine velazquez",64000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,darren aronofsky,138,101160529,noah,2014,english,usa,125000000,5.8,"anthony hopkins,emma watson,logan lerman",71000,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,martin scorsese,138,127968405,shutter island,2010,english,usa,80000000,8.1,"leonardo dicaprio,joseph sikora,nellie sciutto",53000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+color,ridley scott,138,16969390,the counselor,2013,english,usa,25000000,5.3,"michael fassbender,brad pitt,goran visnjic",24000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,james mangold,138,132550960,the wolverine,2013,english,usa,120000000,6.7,"hugh jackman,tao okamoto,rila fukushima",68000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+color,daniel espinosa,137,1206135,child 44,2015,english,czech republic,50000000,6.4,"tom hardy,fares fares,michael nardone",18000,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,nameless,137,37304950,j. edgar,2011,english,usa,35000000,6.6,"leonardo dicaprio,naomi watts,kaitlyn dever",16000,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,walter salles,137,717753,on the road,2012,english,france,25000000,6.1,"kristen stewart,viggo mortensen,kirsten dunst",27000,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,nameless,137,281666058,the hunger games: mockingjay - part 2,2015,english,usa,160000000,6.6,"jennifer lawrence,philip seymour hoffman,josh hutcherson",38000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,angelina jolie pitt,137,115603980,unbroken,2014,english,usa,65000000,7.2,"finn wittrock,jack o'connell,alex russell",35000,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+color,seth macfarlane,136,42615685,a million ways to die in the west,2014,english,usa,40000000,6.1,"liam neeson,charlize theron,seth macfarlane",24000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+color,anthony russo,136,259746958,captain america: the winter soldier,2014,english,usa,170000000,7.8,"scarlett johansson,chris evans,hayley atwell",55000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+color,rob marshall,136,241063875,pirates of the caribbean: on stranger tides,2011,english,usa,250000000,6.7,"johnny depp,sam claflin,stephen graham",58000,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+color,adam shankman,136,38509342,rock of ages,2012,english,usa,75000000,5.9,"james martin kelly,shane hartline,celina beach",33000,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+color,nameless,136,52474616,wall street: money never sleeps,2010,english,usa,70000000,6.3,"frank langella,austin pendleton,john buffalo mailer",13000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+color,tony gilroy,135,113165635,the bourne legacy,2012,english,usa,125000000,6.7,"jeremy renner,scott glenn,stacy keach",31000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+color,steve mcqueen,134,56667870,12 years a slave,2013,english,usa,20000000,8.1,"quvenzhané wallis,scoot mcnairy,taran killam",83000,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+color,paul greengrass,134,107100855,captain phillips,2013,english,usa,55000000,7.9,"tom hanks,chris mulkey,michael chernus",65000,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+color,david ayer,134,85707116,fury,2014,english,usa,68000000,7.6,"brad pitt,logan lerman,jim parrack",82000,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
